@@ -1,6 +1,6 @@
 # IPCam4l
 
-### fork from [TimSC/image-to-v4l2loopback.py](TimSC/image-to-v4l2loopback.py)
+### fork from [TimSC/image-to-v4l2loopback.py](https://gist.github.com/TimSC/6532334)
 
 Send image data to v4l2loopback using python. 
 
